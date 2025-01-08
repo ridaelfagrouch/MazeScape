@@ -1,1 +1,1 @@
-# cub3D_42
+# MazeScape
